@@ -1,5 +1,5 @@
 {
-  "name": "tonchik-tm/pdf-to-html",
+  "name": "aigletter/pdf-to-html",
   "description": "This PHP class can convert your pdf files to html using poppler-utils.",
   "license": "MIT",
   "authors": [
